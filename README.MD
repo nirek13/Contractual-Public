@@ -68,8 +68,3 @@ Got questions or ideas? We’d love to hear from you!
 
 - 📧 **Email**: [hello@contractual.ca](mailto:hello@contractual.ca)
 
----
-
-# 🚀 Contractual — _"Because clarity isn't optional."_
-
----
